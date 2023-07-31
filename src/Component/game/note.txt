@@ -1,0 +1,12 @@
+paddel ball collusion:
+  - paddel:
+
+    > rigth marging: 1.5 
+
+    > top: 3.5
+
+    > H: 21.3
+
+
+  - ball: 
+    > radius: 2.4
